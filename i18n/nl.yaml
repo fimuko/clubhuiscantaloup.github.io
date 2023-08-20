@@ -1,0 +1,66 @@
+global:
+  language: "NL"
+
+article:
+  anchor_label: "Anker"
+  date: "{{ .Date }}"
+  date_updated: "Laatst gewijzigd op: {{ .Date }}"
+  draft: "ontwerp"
+  edit_title: "inhoud bewerken"
+  reading_time:
+    one: "{{ .Count }} min"
+    other: "{{ .Count }} min"
+  reading_time_title: "Lees tijd"
+  table_of_contents: "Inhoudsopgave"
+  word_count:
+   one: "{{ .Count }} Woord"
+   other: "{{ .Count }} Worden"
+  part_of_series: "Dit artikel maakt deel uit van een serie."
+  part: "deel"
+  this_article: "Dit artikel"
+  related_articles: "Gerelateerde artikel"
+
+author:
+  byline_title: "auteur"
+
+code:
+  copy: "kopiëren"
+  copied: "gekopieerd"
+
+error:
+  404_title: "Pagina niet gevonden :confused:"
+  404_error: "404 error"
+  404_description: "Oeps, deze pagina bestaat niet..."
+
+footer:
+  dark_appearance: "Schakel over naar een donkere uitstraling"
+  light_appearance: "Schakel over op lichte uitstraling"
+  powered_by: "Gemaakt met {{ .Hugo }} &amp; {{ .Theme }}"
+
+list:
+  externalurl_title: "Link naar een externe site"
+  no_articles: "Er zijn hier nog geen artikelen."
+
+nav:
+   scroll_to_top_title: "Scrol om te beginnen"
+   skip_to_main: "Spring naar de hoofdinhoud"
+
+search:
+   open_button_title: "Zoeken (/)"
+   close_button_title: "Sluiten (Esc)"
+   input_placeholder: "Zoeken"
+
+sharing:
+  e-mail: "Delen via e-mail"
+  facebook: "Delen op Facebook"
+  linkedin: "Delen op LinkedIn"
+  pinterest: "Pinnen op Pinterest"
+  reddit: "Verzenden naar Reddit"
+  twitter: "Deel op Twitter"
+
+shortcode:
+  recent_articles: "Nieuwe artikelen"
+
+
+recent:
+  show_more: "Laat meer zien"

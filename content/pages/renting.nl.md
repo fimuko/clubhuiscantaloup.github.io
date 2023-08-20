@@ -1,0 +1,73 @@
+---
+#title: "Renting"
+date: 2023-07-19T13:44:22+02:00
+draft: false
+layout: "simple"
+---
+
+# Huren
+
+Clubhuis Cantaloup is een multifunctionele ruimte die te huur is voor verschillende (culturele) activiteiten voor zowel volwassenen als kinderen. In de afgelopen jaren is het clubhuis bijvoorbeeld verhuurd aan theatergroepen als oefenruimte, tekenles voor kinderen en een club voor ouderen. In de weekenden (van 14:00 tot 18:00 uur) is het Clubhuis te huur voor buurtgenoten voor kleinschalige kinderfeestjes of andere activiteiten. 
+
+Huur per dagdeel: €75,-  **De speeltuin zelf is niet te huur en blijft openbaar!** 
+### Wat zit er in het clubhuis - foto's
+
+{{< gallery >}}
+<img src="/inside/Clubhuis-2.jpeg" class="grid-w33" />
+<img src="/inside/Clubhuis3.jpeg" class="grid-w33" />
+<img src="/inside/IMG_9805.JPG" class="grid-w33" />
+<img src="/inside/IMG_9806.JPG" class="grid-w33" />
+<img src="/inside/IMG_9807.JPG" class="grid-w33" />
+<img src="/inside/IMG_9809.JPG" class="grid-w33" />
+<img src="/inside/IMG_9810.JPG" class="grid-w33" />
+<img src="/inside/IMG_9811.JPG" class="grid-w33" />
+<img src="/inside/IMG_9812.JPG" class="grid-w33" />
+<img src="/inside/IMG_9813.JPG" class="grid-w33" />
+<img src="/inside/IMG_9814.JPG" class="grid-w33" />
+<img src="/inside/IMG_9815.JPG" class="grid-w33" />
+<img src="/inside/IMG_9817.JPG" class="grid-w33" />
+<img src="/inside/IMG_9818.JPG" class="grid-w33" />
+<img src="/inside/IMG_9820.JPG" class="grid-w33" />
+<img src="/inside/IMG_9821.JPG" class="grid-w33" />
+<img src="/inside/IMG_9823.JPG" class="grid-w33" />
+<img src="/inside/IMG_9825.JPG" class="grid-w33" />
+<img src="/inside/IMG_9827.JPG" class="grid-w33" />
+{{< /gallery >}}
+
+
+## Huisregels - clubhuis huren
+
+Wij houden op vrijwillige basis deze unieke plek in de stad in stand. Voor u is het gebruik van het Clubhuis wellicht eenmalig, voor het Clubhuis en omwonenden meerdere keren per week. Wij vragen u dan ook vriendelijk de huisregels in andacht te nemen zodat we allemaal nog jarenlang plezier kunnen hebben van het clubhuis en de speeltuin! Bedankt!
+
+- **aantal mensen:** Er mogen maximaal 34 personen (volwassenen + kinderen) deelnemen aan de activiteit waarvoor u het Clubhuis huurt. Uw activiteit veroorzaakt geen overlast.
+- **luiken:** De luiken zijn eenvoudig van binnenuit los te maken. Bij het verlaten van het Clubhuis moeten alle luiken en deuren goed worden afgesloten. Bewaar de schroeven en moeren dus zorgvuldig.
+- **brandweer:** Op last van de brandweer moeten er altijd 2 deuren open zijn. De deur in het toegangshalletje en de deur naar de speeltuin zijn met dezelfde sleutel te openen.
+- **bakken/koken:** Het bereiden van eten is uitsluitend toegestaan met de in de keuken aanwezige kook/bakfaciliteiten. Frituren, steengrillen, gourmetten, grillen, barbequen, etc. is zowel in het Clubhuis als in de Speeltuin niet toegestaan.
+- **slingers:** Voor het ophangen van slingers zijn er haakjes aan de balken. In geen geval mag u slingers aan de (metalen draden van de) lampen hangen.
+- **rookverbod:** Er geldt een algemeen rookverbod in het Clubhuis en in de Speeltuin.
+- **alcoholgerbuik:** Matig gebruik van alcohol in het Clubhuis is toegestaan. Het is niet toegestaan om buiten het Clubhuis al dan niet lege flessen/glazen neer te zetten. Houdt er in alle gevallen rekening mee dat u zich in een openbare Speeltuin bevindt.
+- **groot speelgoed:** Zelf meegebracht (groot) speelgoed zoals luchtkussens, zwembadjes, etc. is niet toegestaan in het Clubhuis en de Speeltuin.
+- **speeltuin:** U huurt alleen het Clubhuis, de Speeltuin is nimmer voor exclusief gebruik te reserveren. Houdt er rekening mee dat andere bezoekers vrij van de Speeltuin gebruik moeten kunnen maken.
+- **tijden:** U huurt het Clubhuis van 14:00 tot 18:00 uur. U mag tot een (1) uur voorafgaand aan tot een (1) uur aansluitend op deze huurtijd in het Clubhuis i.v.m. voorbereiding en afsluiting/opruimen van uw activiteit.
+- **tuintjes:** Aan de linkerkant van de lange heg is een aantal tuintjes, hier mogen de kinderen niet komen.
+- **vragen:** Vragen tijdens de huur stelt u aan uw contactpersoon.
+- **schade/aansprakenlikheid:** zie algemene voorwaarden. (???link???) 
+- **na afloop - checklist:** 
+    - Schoonmaken en opruimen: grote ruimte, inventaris, keuken, gang, binnenwc en terras, vloeren (ook gang en wc) stofzuigen en dweilen.
+    - Schoonmaakmiddelen staan onderin het gootsteenkastje.
+    - De stofzuiger staat binnen bij het keukenraam.
+    - Bezems staan achter de metalen kast in het voorportaal.
+    - Veger en blik ligt in de keuken.
+    - Theedoeken: u neemt zelf uw eigen schone theedoeken mee. Gebruikte theedoeken van het clubhuis graag apart hangen in het voorportaal.
+    - Toiletpapier: u neemt zelf een rol toiletpapier mee.
+    - Vuilnis dient U in de containers **buiten** het Clubhuis te deponeren. U neemt een schone vuilniszak mee voor in de pedaalemmer.
+    - Koelkast: schoon en leeg achterlaten
+    - Tafels/stoelen: op hun plaats
+
+## Beschikbaarheid
+
+TODO: LINK HERE TO GOOGLE CALENDAR
+
+## Huren
+
+TODO: Webform with captcha

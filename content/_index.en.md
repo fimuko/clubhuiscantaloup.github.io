@@ -1,0 +1,1 @@
+Welcome to the club house and public playground located in Willemspark neighborhood of The Hague.
