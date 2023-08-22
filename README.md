@@ -56,4 +56,7 @@ hugo server
 
 # TODOs
 
-[ ] 
+[ ] *responsive calendar (width change)
+[ ] webform
+[ ] footer menu for the newsletter subscription
+[ ] finalize hosting by redirecting domain to github pages
