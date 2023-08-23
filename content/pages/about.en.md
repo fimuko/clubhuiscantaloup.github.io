@@ -1,11 +1,12 @@
 ---
-#title: "About"
+title: "About 'canta'"
 date: 2023-07-19T13:44:16+02:00
 draft: false
 layout: "simple"
+groupByYear: false
 ---
 
-# About 'canta'
+<!-- # About 'canta' -->
 
 The neighborhood playground "De Cantaloup" is situated in the heart of The Hague since the '70s. It has a football field, recreation bath and the clubhouse. The clubhouse was renovated in 2008. 
 

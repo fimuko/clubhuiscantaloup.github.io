@@ -1,11 +1,11 @@
 ---
-#title: "Over 'canta'"
+title: "Over 'canta'"
 date: 2023-07-19T13:44:16+02:00
 draft: false
 layout: "simple"
 ---
 
-# Over 'canta'
+<!-- # Over 'canta' -->
 
 Al sinds de jaren ’70 ligt hier in hartje Den Haag een buurtspeeltuin, “De Cantaloup” met bijbehorend voetbalveld, recreatiebadje en het clubhuis. In 2008 is het clubhuis verbouwd. 
 
