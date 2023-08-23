@@ -59,6 +59,7 @@ hugo server
 [X] responsive calendar (width change)
 [X] create /pages list page
 [ ] webform
-[ ] footer menu for the newsletter subscription + information that this website does not use cookies
+[ ] footer menu information that this website does not use cookies
+[ ] (extended?) footer for the newsletter subscription
 [ ] by me cofee / donate link
 [ ] finalize hosting by redirecting domain to github pages
