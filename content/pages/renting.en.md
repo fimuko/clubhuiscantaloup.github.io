@@ -1,15 +1,20 @@
 ---
-#title: "Renting"
+title: "Renting"
 date: 2023-07-19T13:44:22+02:00
 draft: false
 layout: "simple"
 ---
 
-# Renting
+<!-- # Renting -->
 
 Cantaloup Clubhouse is a multifunctional space that can be rented for various (cultural) activities for both adults and children. In the past years the clubhouse was used for example: by theater groups (as a space for practice); for art classes for children and for the meetings of the "seniors club". During the weekends the clubhouse can he rented (from 14:00 till 18:00) by the community members of the neighborhood as a venue of birthday celebration for children.  
 
-The rent for (a part of) a day is: €75,-  The playground itself is not for rent and cannot be reserved as it is a public space! 
+The rent for (a part of) a day is: €75,-  
+
+{{< alert >}}
+**The playground itself is not for rent and cannot be reserved as it is a public space!**  
+{{< /alert >}}
+
 ### What's inside the clubhouse - photos
 
 {{< gallery >}}
@@ -34,6 +39,9 @@ The rent for (a part of) a day is: €75,-  The playground itself is not for ren
 <img src="/inside/IMG_9827.JPG" class="grid-w33" />
 {{< /gallery >}}
 
+
+<!-- couldn't make the below work -->
+<!-- {{< carousel images="/static/inside/*" >}} -->
 
 ## Rules of renting of the clubhouse
 
@@ -66,8 +74,9 @@ We manage and maintain this unique place in the city with voluntary work. You ma
 
 ## Availability
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23EF6C00&ctz=Europe%2FAmsterdam&src=Y2x1Ymh1aXMuY2FudGFsb3VwQGdtYWlsLmNvbQ&src=bmwuZHV0Y2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4uZHV0Y2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23E67C73&color=%230B8043&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+<p align="center">
+<iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=2&bgcolor=%23EE9B00&ctz=Europe%2FAmsterdam&src=Y2x1Ymh1aXMuY2FudGFsb3VwQGdtYWlsLmNvbQ&src=bmwuZHV0Y2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4uZHV0Y2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23E67C73&color=%230B8043&color=%230B8043" style="border:solid 1px #777" width="80%" height="500px" frameborder="0" scrolling="no"></iframe>
+</p>
 
 
 ## Rental request form

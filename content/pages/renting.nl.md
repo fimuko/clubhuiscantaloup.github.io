@@ -1,15 +1,21 @@
 ---
-#title: "Renting"
+title: "Huren"
 date: 2023-07-19T13:44:22+02:00
 draft: false
 layout: "simple"
 ---
 
-# Huren
+<!-- # Huren -->
 
 Clubhuis Cantaloup is een multifunctionele ruimte die te huur is voor verschillende (culturele) activiteiten voor zowel volwassenen als kinderen. In de afgelopen jaren is het clubhuis bijvoorbeeld verhuurd aan theatergroepen als oefenruimte, tekenles voor kinderen en een club voor ouderen. In de weekenden (van 14:00 tot 18:00 uur) is het Clubhuis te huur voor buurtgenoten voor kleinschalige kinderfeestjes of andere activiteiten. 
 
-Huur per dagdeel: €75,-  **De speeltuin zelf is niet te huur en blijft openbaar!** 
+Huur per dagdeel: €75,-  
+
+{{< alert >}}
+**De speeltuin zelf is niet te huur en blijft openbaar!** 
+{{< /alert >}}
+
+ 
 ### Wat zit er in het clubhuis - foto's
 
 {{< gallery >}}
@@ -66,7 +72,9 @@ Wij houden op vrijwillige basis deze unieke plek in de stad in stand. Voor u is 
 
 ## Beschikbaarheid
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23EF6C00&ctz=Europe%2FAmsterdam&src=Y2x1Ymh1aXMuY2FudGFsb3VwQGdtYWlsLmNvbQ&src=bmwuZHV0Y2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4uZHV0Y2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23E67C73&color=%230B8043&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<p align="center">
+<iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=2&bgcolor=%23EE9B00&ctz=Europe%2FAmsterdam&src=Y2x1Ymh1aXMuY2FudGFsb3VwQGdtYWlsLmNvbQ&src=bmwuZHV0Y2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4uZHV0Y2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23E67C73&color=%230B8043&color=%230B8043" style="border:solid 1px #777" width="80%" height="500px" frameborder="0" scrolling="no"></iframe>
+</p>
 
 ## Huren
 

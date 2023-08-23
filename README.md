@@ -56,7 +56,9 @@ hugo server
 
 # TODOs
 
-[ ] *responsive calendar (width change)
+[X] responsive calendar (width change)
+[X] create /pages list page
 [ ] webform
-[ ] footer menu for the newsletter subscription
+[ ] footer menu for the newsletter subscription + information that this website does not use cookies
+[ ] by me cofee / donate link
 [ ] finalize hosting by redirecting domain to github pages
