@@ -39,3 +39,11 @@ Het beeld Avatar Omarmt, gemaakt door Nenad Stankovic maakt onderdeel uit van Sp
 <img src="/avatar/avatar-omarmt2.jpg" class="grid-w65" />
 <img src="/avatar/omarming.png" class="grid-w35" />
 {{< /gallery >}}
+
+## Nieuwsbrief abonnement
+
+(wordt geopend in een nieuw webbrowsertabblad)
+
+{{< button href="https://eepurl.com/dlTJHT" target="_blank" >}}
+Abonneren
+{{< /button >}}
