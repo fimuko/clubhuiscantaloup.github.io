@@ -75,10 +75,12 @@ We manage and maintain this unique place in the city with voluntary work. You ma
 ## Availability
 
 <p align="center">
-<iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=2&bgcolor=%23EE9B00&ctz=Europe%2FAmsterdam&src=Y2x1Ymh1aXMuY2FudGFsb3VwQGdtYWlsLmNvbQ&src=bmwuZHV0Y2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4uZHV0Y2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23E67C73&color=%230B8043&color=%230B8043" style="border:solid 1px #777" width="80%" height="500px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ee9b00&ctz=Europe%2FAmsterdam&showTitle=0&showNav=1&showDate=1&showPrint=0&showTabs=1&title=Clubhouse%20availability&showCalendars=0&showTz=1&src=Y2x1Ymh1aXMuY2FudGFsb3VwQGdtYWlsLmNvbQ&color=%23E67C73&hl=en" style="border:solid 1px #777" width="90%" height="600" frameborder="0" scrolling="no"></iframe>
 </p>
 
 
 ## Rental request form
 
-TODO: Webform with captcha
+<p align="center">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_B9VarDzsfdy-oUef_XysAq3tWXN2A6RGl2HGbSUeG7lxQA/viewform?embedded=true&hl=en" width="90%" height="1300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</p>
