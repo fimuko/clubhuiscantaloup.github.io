@@ -43,4 +43,8 @@ The statue "Avatar Omarmt" situated in the corner of the playground is made by N
 
 ## Newsletter subscription
 
-To sign-up to our letter, please use [the following form](http://eepurl.com/dlTJHT).
+(opens in a new web browser tab)
+
+{{< button href="https://eepurl.com/dlTJHT" target="_blank" >}}
+Subscribe
+{{< /button >}}

@@ -42,4 +42,8 @@ Het beeld Avatar Omarmt, gemaakt door Nenad Stankovic maakt onderdeel uit van Sp
 
 ## Nieuwsbrief abonnement
 
-Om u aan te melden voor onze brief, gebruikt u [het volgende formulier](http://eepurl.com/dlTJHT).
+(wordt geopend in een nieuw webbrowsertabblad)
+
+{{< button href="https://eepurl.com/dlTJHT" target="_blank" >}}
+Abonneren
+{{< /button >}}
