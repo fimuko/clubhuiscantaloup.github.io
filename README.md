@@ -65,4 +65,5 @@ The site will be buld with github actions as per [this article.](https://gohugo.
 [x] footer menu information that this website does not use cookies
 [x] newsletter subscription mailchimp
 [ ] by me cofee / donate link
-[ ] finalize hosting by redirecting domain to github pages
+[x] finalize hosting by redirecting domain to github pages
+[ ] *autoforwarding announcements from facebook?
