@@ -40,3 +40,7 @@ The statue "Avatar Omarmt" situated in the corner of the playground is made by N
 <img src="/avatar/avatar-omarmt2.jpg" class="grid-w65" />
 <img src="/avatar/omarming.png" class="grid-w35" />
 {{< /gallery >}}
+
+## Newsletter subscription
+
+To sign-up to our letter, please use [the following form](http://eepurl.com/dlTJHT).

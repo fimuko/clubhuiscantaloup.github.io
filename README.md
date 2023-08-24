@@ -18,8 +18,7 @@ git submodule add -b main https://github.com/nunocoracao/blowfish.git themes/blo
 then [setting up config files](https://blowfish.page/docs/installation/#set-up-theme-configuration-files)
 
 
-
-9. you add content like this:
+3. you add content like this:
 
 ```bash
 hugo new posts/my-first-post.md
@@ -30,6 +29,10 @@ Test serving the site locally:
 hugo server
 ```
 
+4. push to github repo
+
+The site will be buld with github actions as per [this article.](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+
 # Content structure (pages)
 
 - home
@@ -38,6 +41,7 @@ hugo server
     - images from `outside`
     - a bit of history
     - info about this monument
+    - newsletter subscription
 
 - renting
     - table of contents 
@@ -50,8 +54,7 @@ hugo server
     - blog OR better pushed content from Facebook
     
 - *footer menu
-    - details of our org
-    - newsletter subscription to mailchimp?
+    - details of our org?
 
 
 # TODOs
@@ -60,6 +63,6 @@ hugo server
 [X] create /pages list page
 [x] webform
 [x] footer menu information that this website does not use cookies
-[ ] (extended?) footer for the newsletter subscription mailchimp
+[x] newsletter subscription mailchimp
 [ ] by me cofee / donate link
 [ ] finalize hosting by redirecting domain to github pages
