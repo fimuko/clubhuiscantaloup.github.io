@@ -14,7 +14,15 @@
     </nav>
     {{ end }}
   {{ end }}
-  <div class="flex items-center justify-between">
+
+  <div class="flex items-center ">
+    <p class="text-sm text-neutral-500 dark:text-neutral-400">
+        This website does not use cookies. / Dit webpagina maakt geen gebruik van cookies.
+    </p>
+  </div>
+    </br>
+  
+    <div class="flex items-center justify-between">
 
     {{/* Copyright */}}
     {{ if .Site.Params.footer.showCopyright | default true }}
@@ -29,9 +37,9 @@
     </p>
     {{ end }}
 
-    <p class="text-sm text-neutral-500 dark:text-neutral-400">
+    <!-- <p class="text-sm text-neutral-500 dark:text-neutral-400">
     This website does not use cookies. / Dit webpagina maakt geen gebruik van cookies.
-    </p>
+    </p> -->
 
     {{/* Theme attribution */}}
     {{ if .Site.Params.footer.showThemeAttribution | default true }}
